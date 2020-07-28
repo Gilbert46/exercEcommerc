@@ -1,0 +1,82 @@
+nav{
+    padding: 3%;
+    display: inline-flex;
+    background: #ddd;
+    width: 94%;
+    text-align: center;
+}
+img{
+    margin-top: 2%;
+}
+h1{
+    margin-right: 35%;
+    margin-top: 3%;
+}
+#logo{
+    width: 10%;
+    border: 2px solid #444;
+}
+#buto{
+    border: 2px solid #444;
+}
+#buto:hover, #logo:hover{
+    border: 2px solid #fff; 
+}
+#txt{
+    margin-left: 5%;
+    height: 30px;
+    width: 33%;
+}
+select{
+    height: 30px;
+}
+header{
+    padding: 1%;
+    background: #999;
+    text-align: center;
+    width: 94%;
+}
+section{
+    padding: 1%;
+    margin: 1px auto;
+}
+#fila {
+    display: inline-block;
+    margin-left: 2%;
+    width: 20%;
+   
+}
+#colum {
+    display: block;
+    border: 2px solid navy;
+    width: 100%;
+    height: 140px;
+    margin-top: 5%;
+
+}
+#help{
+    margin-top: 50px;
+    padding: 2%;
+    background: #999;
+    color: #fff;
+    width: 94%;
+}
+footer{
+    padding: 1%;
+    width: 97%;
+    background: #ddd;
+    text-align: center;
+    width: 94%;
+}
+#colum2{
+    padding: 0.001%;
+    display: block;   
+}
+#enl{
+    width:5%;
+    margin-right: 2%;
+    border: 3px solid #fff;
+}
+#enl:hover{
+    border: 3px solid #444;
+}
